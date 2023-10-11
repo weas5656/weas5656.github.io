@@ -1,6 +1,6 @@
 # weas5656.github.io
-<img src="peerawich.jpg" alt="peerawich circle logo" style="height: 500px; width:500px;"/>
-# W//Guest
+** <img src="peerawich.jpg" alt="peerawich circle logo" style="height: 500px; width:500px;"/> **
+** # W//Guest **
 
 * Full name(ENG) :Peerawich Woratat 
 
@@ -24,6 +24,8 @@
 
   
 * สรุป:การเข้าใจวิธีใช้งานผลิตภัณฑ์และเทคโนโลยีทุกรูปแบบ ที่ง่ายต่อการใช้งานเรียบง่าย สะดวกสะบาย ใช้งานได้ทุกวัย
+
+  
 
 
 
