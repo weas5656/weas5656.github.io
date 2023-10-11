@@ -1,5 +1,5 @@
 # weas5656.github.io
-<img src="peerawich.jpg" alt="peerawich" style="height: 500px; width:500px;"/>
+<img src="peerawich.jpg" alt="peerawich circle logo" style="height: 500px; width:500px;"/>
 
 
 * Full name(ENG) :Peerawich Woratat 
